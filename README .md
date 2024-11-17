@@ -57,7 +57,7 @@ Para agregar una nueva película, utilizamos el verbo `POST` con el siguiente en
 
 ### **Editar una Película**
 Para editar una película, utilizamos el verbo `PUT` con el siguiente endpoint:  
-`TPE3/api/peliculas`
+`TPE3/api/peliculas/:id`
 
 **Ejemplo:**  
 [http://localhost/TPE3/api/peliculas/9](http://localhost/TPE3/api/peliculas/9)
